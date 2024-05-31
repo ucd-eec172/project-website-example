@@ -6,7 +6,9 @@ date: '*EEC172 WQ24*'
 subtitle: '<blockquote><b>EEC172 Final Project Webpage Example</b><br/>
 Note to current students: this is an <i>example</i> webpage and
 may not fulfill all stated requirements of the current quarter''s 
-assignment.</blockquote>'
+assignment.<br/>The website source is hosted 
+<a href="https://github.com/ucd-eec172/project-website-example">on github</a>.
+</blockquote>'
 
 toc-title: 'Table of Contents'
 abstract-title: '<h2>Description</h2>'

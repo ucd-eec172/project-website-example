@@ -6,6 +6,8 @@
 This is an example final project website for UCD EEC172 per the project
 instructions [posted here](https://ucd-eec172.github.io/labs/project.html).
 
+It is live [here](https://ucd-eec172.github.io/project-website-example/).
+
 
 ## Usage and Publishing
 
