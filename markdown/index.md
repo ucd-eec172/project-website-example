@@ -24,6 +24,11 @@ and lower thresholds for TDS, and the device will automatically add
 nutrient solution or water to keep the TDS bounded by the thresholds.
 The device can also be configured to send notifications over SNS when
 the TDS value goes outside thresholds.
+<br/><br/>
+Our source code can be found 
+<!-- replace this link -->
+<a href="https://github.com/ucd-eec172/project-website-example">
+  here (placeholder)</a>.
 
 <div style="display:flex;flex-wrap:wrap;justify-content:space-evenly;padding-top:20px">
   <div style="display: inline-block; vertical-align: bottom;">
