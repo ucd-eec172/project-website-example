@@ -1,6 +1,7 @@
 PROJ_DIR := $(realpath .)
-TARGET ?= index
-SRCS = $(TARGET).md
+# TARGET ?= index
+TARGETS = $(wildcard $(PROJ_DIR)/markdown/*.md)
+SRCS = $(notdir $(TARGETS))
 
 HTMLS = $(SRCS:.md=.html)
 

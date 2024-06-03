@@ -20,9 +20,12 @@ author-written markdown pages into a formatted and styled static HTML page.
 It is meant for deployment on GitHub Pages, but can be deployed anywhere
 that can host static pages.
 
-After the software dependencies are installed, and you've written the page's
-content in markdown, you can build the webpage by simply invoking `make` 
-in your terminal at the top level of the repository.
+**After the software dependencies are installed, *and you've written the page's
+content in markdown*, you can build the webpage by simply invoking `make` 
+in your terminal at the top level of the repository.**
+
+Note that make will not do anything unless you've modified files in the 
+`markdown` folder
 
 ### Usage
 
