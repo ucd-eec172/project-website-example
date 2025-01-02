@@ -6,8 +6,8 @@ SRCS = $(notdir $(TARGETS))
 HTMLS = $(SRCS:.md=.html)
 
 # specify css files to include
-CSS =  assets/github-markdown-light.css
-CSS += assets/style-customization.css
+CSS =  $(PROJ_DIR)/assets/github-markdown-light.css
+CSS += $(PROJ_DIR)/assets/style-customization.css
 CSS_OPTS = $(foreach css, $(CSS), --css=$(css))
 
 # specify new syntax definitions
